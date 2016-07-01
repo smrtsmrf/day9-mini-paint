@@ -6,7 +6,7 @@ Our index.html has 5400 divs on it. These divs are little black squares. These s
 
 # Step 1 - Add Class
 
-The primary thing our 'pixes' do is change color. These little guys will be the building blocks of our works of art. With v1 of our app, let's go with just black and white pixels. Not because we can't have colors, but we'll need to save some features for v2 right?
+The primary thing our 'pixels' do is change color. These little guys will be the building blocks of our works of art. With v1 of our app, let's go with just black and white pixels. Not because we can't have colors, but we'll need to save some features for v2 right?
 
 - Initialize our app.js file by loading the document when it's ready
 
